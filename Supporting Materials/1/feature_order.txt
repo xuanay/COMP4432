@@ -1,0 +1,7 @@
+Age
+Sleep Duration
+Physical Activity Level
+Stress Level
+Heart Rate
+Daily Steps
+Blood Pressure
